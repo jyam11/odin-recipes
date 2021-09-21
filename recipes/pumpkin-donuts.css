@@ -1,0 +1,16 @@
+.recipe-title,
+.ingredients-title,
+.directions-title {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+.donut-image {
+  text-align: center;
+}
+
+.ingredients-list,
+.directions-list {
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+}
